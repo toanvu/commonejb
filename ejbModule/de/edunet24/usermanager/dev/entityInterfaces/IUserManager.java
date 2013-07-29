@@ -14,7 +14,6 @@ import de.edunet24.usermanager.dev.entityBeans.Role;
 import de.edunet24.usermanager.dev.entityBeans.Service;
 import de.edunet24.usermanager.dev.entityBeans.ServicePermission;
 import de.edunet24.usermanager.dev.entityBeans.User;
-import de.edunet24.usermanager.dev.entityBeans.UserEntity;
 
 /**
  * add User (UserEntity)
