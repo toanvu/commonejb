@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/JBoss 7.1 Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/mysql-connector-java-5.1.9.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/hibernate-core-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/hibernate-entitymanager-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/jboss-ejb-api_3.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="ejbModule/META-INF/lib/jboss-ejb3-ext-api-2.0.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
